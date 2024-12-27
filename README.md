@@ -18,36 +18,36 @@ This project is a web application developed in Python, using the Flask framework
    ```bash
    git clone https://github.com/mendesbeto/test-webapp-rendler.git
    cd test-webapp-rendler
-Create and activate a virtual environment:
+2. **Create and activate a virtual environment:**
 
-bash
-Copiar código
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-Install the dependencies:
+   `bash`
+      `python -m venv venv
+       source venv/bin/activate`  # On Windows: `venv\Scripts\activate`
+    
+3. **Install the dependencies:**
 
-bash
-Copiar código
-pip install -r requirements.txt
-Running the Application
-Start the Flask application:
+   bash
+   `pip install -r requirements.txt`
+   
+## Running the Application
+   1. Start the Flask application:
 
-bash
-Copiar código
-python handler.py
-Access the application in the browser:
+      bash
+      `python handler.py`
+      
+   3. Access the application in the browser:
 
-Open http://localhost:5000 to interact with the application.
+      Open `http://localhost:5000` to interact with the application.
 
-Usage
-The application allows users to input data related to Rossmann stores and receive sales predictions based on the implemented machine learning model.
+## Usage
+   The application allows users to input data related to Rossmann stores and receive sales predictions based on the implemented machine learning model.
 
-Contribution
-Contributions are welcome! Feel free to open issues or submit pull requests with improvements or fixes.
+## Contribution
+   Contributions are welcome! Feel free to open issues or submit pull requests with improvements or fixes.
 
-License
-This project is licensed under the MIT License.
-
-Copiar código
+## License
+   This project is licensed under the MIT License.
 
 Se precisar de mais ajustes ou personalizações, é só avisar! 😊
+
+
